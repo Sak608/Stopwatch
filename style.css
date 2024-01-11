@@ -13,7 +13,10 @@ body{
     background-size: cover;
     background-position: center;
     text-align: center;
-    padding: 40px 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 120px;
+    padding-bottom: 120px;
     
     color: #fff;
     margin: 200px auto 0;
